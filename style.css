@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: Orchid;
+    color: Indigo;
+    border-radius: 5px;
+}
+header img {
+    margin: 5px;
+}
+h1 {
+    background-color: #9370DB;
+    color: #8B008B;
+    text-align: center;
+}
+footer {
+    background-color: #EE82EE;
+}
+footer p {
+    border: 2.5px solid #9370DB;
+    color: #8A2BE2;
+}
+nav a {
+    background-color: #6A5ACD;
+    color: #FAEBD7;
+    border-radius: 5px;
+    padding: 1px;
+    text-decoration: none;
+}
+.h {
+    background-color: #006400;
+    color: #FFD700;
+    border-radius: 10px;
+    padding: 10px;
+}
+.f {
+    background-color: #FFA07A;
+    color: #008080;
+    border-radius: 10px;
+    border: 10px solid #FFA07A;
+    text-decoration: none;
+}
